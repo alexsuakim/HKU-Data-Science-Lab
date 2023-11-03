@@ -31,6 +31,7 @@ Crayfish were considered stressed when their movement value was lower than 7.0 a
 
 Results 
            For crayfish detection, the model showed a test set accuracy of a precision of 1.0, a recall of 0.863, and a mAP50 of 0.938 after 25 epochs, where mAP stands for mean average precision.
+           
 ![image](https://github.com/alexsuakim/CV-Crayfish-Stress-Level-Detection/assets/99973140/5510aa57-86d2-4487-944a-87fd5d4d43de)
 
  
